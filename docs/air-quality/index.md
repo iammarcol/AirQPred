@@ -4,6 +4,12 @@
 
 {% include air-quality.html %}
 
+# Standard model
+
+![Forecast](./assets/img/pm25_forecast_first.png)
+
+# When using rolling_pm25 values
+
 ![Forecast](./assets/img/pm25_forecast.png)
 
 
